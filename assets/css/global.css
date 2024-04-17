@@ -3878,7 +3878,7 @@ a.link-hover:hover {
   width: 100%;
   height: 100%;
   z-index: 99999;
-  background: var(--bg-color);
+  background: #DFA3A9;
 }
 .preloader .preloader-before {
   top: 0;
@@ -3901,7 +3901,7 @@ a.link-hover:hover {
 .preloader .loading-text.percent {
   font-weight: 500;
   left: calc(15vw + 40px);
-  color: var(--theme-color);
+  color: #DFA3A9;
 }
 @media only screen and (max-width: 767px) {
   .preloader .percent.percent,
@@ -3921,7 +3921,7 @@ a.link-hover:hover {
   -webkit-text-stroke: 1px var(--heading-color);
 }
 .preloader .title .text-fill {
-  color: var(--heading-color);
+  color: #fff;
   position: absolute;
   left: 0;
   -webkit-clip-path: inset(100.09% 0% 0% 0%);
@@ -3933,7 +3933,7 @@ a.link-hover:hover {
   height: 2.5px;
   left: 40px;
   bottom: 40px;
-  background: var(--assistant-color);
+  background: #DFA3A9;
   border-radius: 10px;
 }
 @media only screen and (max-width: 767px) {
@@ -3944,7 +3944,7 @@ a.link-hover:hover {
 .preloader .preloader-bar .preloader-progress {
   width: 0%;
   height: 100%;
-  background: var(--theme-color);
+  background: #DFA3A9;
   border-radius: 10px;
 }
 
